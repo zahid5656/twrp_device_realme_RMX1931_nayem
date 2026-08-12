@@ -106,7 +106,7 @@ jobs:
           mkdir -p workspace/device/realme
 
           git clone --depth=1 \
-            https://github.com/nayem8854/twrp_device_realme_RMX1931.git \
+            https://github.com/zahid5656/twrp_device_realme_RMX1931_nayem.git \
             workspace/device/realme/samurai
 
       - name: Build Recovery
